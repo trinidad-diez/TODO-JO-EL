@@ -9,7 +9,7 @@ fun main(){
     // Crea un escàner per llegir l'entrada de l'usuari.
     val scan : Scanner = Scanner (System.`in`)
 
-    // Emmagatzema els valors escanejats en variables.
+    // Emmagatzema els valor escanejat en variable.
     var numero : Int = scan.nextInt()
 
     // Crea una variable per a la suma dels dos nombres.
